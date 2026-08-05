@@ -14,19 +14,16 @@
         <h1 class="site-name">tools_AI執筆のソシャゲ新着情報</h1>
         <p class="site-description">ゲーム公式Xの更新を、毎日ローカルAIが短く整理</p>
       </a>
-      <button class="mobile-menu-button" id="mobileMenuButton" type="button"
-              aria-expanded="false" aria-controls="mobileDrawer">☰ メニュー</button>
+
+      <button class="ranking-switch" id="rankingToggle" type="button"
+              aria-expanded="false" aria-controls="salesRankingModal">
+        <span class="ranking-switch-label">本日のセルラン10位</span>
+        <span class="ranking-switch-track" aria-hidden="true">
+          <span class="ranking-switch-knob"></span>
+        </span>
+      </button>
     </div>
   </header>
-
-  <div class="drawer-backdrop" id="drawerBackdrop"></div>
-  <aside class="mobile-drawer" id="mobileDrawer" aria-label="スマホメニュー">
-    <div class="drawer-header">
-      <span class="drawer-title">メニュー</span>
-      <button class="drawer-close" id="drawerClose" type="button" aria-label="メニューを閉じる">×</button>
-    </div>
-    <div class="drawer-panels" data-navigation></div>
-  </aside>
 
   <div class="page-shell">
     <main class="main-column">
@@ -41,12 +38,30 @@
         </p>
       </section>
 
-      <p class="filter-heading" id="filterHeading">新着記事</p>
+      <p class="filter-heading">新着記事</p>
       <section class="post-list" id="postList" aria-live="polite"></section>
     </main>
-
-    <aside class="sidebar" aria-label="サイドメニュー" data-navigation></aside>
   </div>
+
+  <div class="ranking-backdrop" id="rankingBackdrop" hidden></div>
+  <section class="ranking-modal" id="salesRankingModal" role="dialog"
+           aria-modal="true" aria-labelledby="rankingModalTitle" hidden>
+    <div class="ranking-modal-header">
+      <div>
+        <p class="ranking-modal-kicker">AppStore</p>
+        <h2 id="rankingModalTitle">本日のセルラン10位</h2>
+      </div>
+      <button class="ranking-close" id="rankingClose" type="button"
+              aria-label="セルランを閉じる">×</button>
+    </div>
+
+    <p class="ranking-updated" id="rankingUpdated"></p>
+    <ol class="ranking-list" id="rankingList"></ol>
+    <p class="ranking-message" id="rankingMessage" hidden></p>
+
+    <a class="ranking-source" id="rankingSource" target="_blank"
+       rel="noopener noreferrer">出典：Game-i</a>
+  </section>
 
   <footer class="site-footer">
     <div class="footer-inner">
@@ -57,6 +72,7 @@
 
   <script>window.SITE_BASE = "./";</script>
   <script src="data/posts.js"></script>
+  <script src="data/sales_ranking.js"></script>
   <script src="app.js"></script>
 </body>
 </html>

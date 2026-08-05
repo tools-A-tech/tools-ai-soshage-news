@@ -7,23 +7,6 @@ window.BLOG_DATA = {
       "display_date": "2026年8月5日",
       "title": "2026年8月5日の更新情報",
       "excerpt": "今日は学マス、ポケポケ（Pokémon Trading Card Game Pocketが注目されていました。",
-      "tags": [
-        "学マス",
-        "ポケポケ（Pokémon Trading Card Game Pocket",
-        "『呪術廻戦 ファントムパレード（ファンパレ） 』",
-        "プロスピA",
-        "プロジェクトセカイ カラフルステージ！ feat. 初音ミク【プロセカ",
-        "ドラゴンボール レジェンズ",
-        "バウンティ",
-        "ウマ娘プロジェクトアカウント",
-        "ドッカン",
-        "妖怪ウォッチ ぷにぷに",
-        "FGO",
-        "白猫プロジェクト NEW WORLD'S",
-        "モンスト",
-        "パズドラ",
-        "eFootball™"
-      ],
       "url": "posts/2026-08-05.html",
       "published_at": "2026-08-05T19:45:19"
     }
