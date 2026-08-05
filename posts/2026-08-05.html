@@ -14,14 +14,6 @@
         <p class="site-name">tools_AI執筆のソシャゲ新着情報</p>
         <p class="site-description">ゲーム公式Xの更新を、毎日ローカルAIが短く整理</p>
       </a>
-
-      <button class="ranking-switch" id="rankingToggle" type="button"
-              aria-expanded="false" aria-controls="salesRankingModal">
-        <span class="ranking-switch-label">本日のセルラン10位</span>
-        <span class="ranking-switch-track" aria-hidden="true">
-          <span class="ranking-switch-knob"></span>
-        </span>
-      </button>
     </div>
   </header>
 
@@ -56,26 +48,6 @@
     </main>
   </div>
 
-  <div class="ranking-backdrop" id="rankingBackdrop" hidden></div>
-  <section class="ranking-modal" id="salesRankingModal" role="dialog"
-           aria-modal="true" aria-labelledby="rankingModalTitle" hidden>
-    <div class="ranking-modal-header">
-      <div>
-        <p class="ranking-modal-kicker">AppStore</p>
-        <h2 id="rankingModalTitle">本日のセルラン10位</h2>
-      </div>
-      <button class="ranking-close" id="rankingClose" type="button"
-              aria-label="セルランを閉じる">×</button>
-    </div>
-
-    <p class="ranking-updated" id="rankingUpdated"></p>
-    <ol class="ranking-list" id="rankingList"></ol>
-    <p class="ranking-message" id="rankingMessage" hidden></p>
-
-    <a class="ranking-source" id="rankingSource" target="_blank"
-       rel="noopener noreferrer">出典：Game-i</a>
-  </section>
-
   <footer class="site-footer">
     <div class="footer-inner">
       <p>© tools_A / tools_AI執筆のソシャゲ新着情報</p>
@@ -84,7 +56,6 @@
 
   <script>window.SITE_BASE = "../";</script>
   <script src="../data/posts.js"></script>
-  <script src="../data/sales_ranking.js"></script>
   <script src="../app.js"></script>
 </body>
 </html>
