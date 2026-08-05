@@ -1,6 +1,6 @@
 window.BLOG_DATA = {
   "site_name": "tools_AI執筆のソシャゲ新着情報",
-  "updated_at": "2026-08-05T18:03:54",
+  "updated_at": "2026-08-05T18:17:32",
   "posts": [
     {
       "date": "2026-08-05",
@@ -17,7 +17,7 @@ window.BLOG_DATA = {
         "学マス"
       ],
       "url": "posts/2026-08-05.html",
-      "published_at": "2026-08-05T18:03:54"
+      "published_at": "2026-08-05T18:17:32"
     }
   ]
 };
