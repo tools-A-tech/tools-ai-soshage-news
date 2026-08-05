@@ -1,7 +1,7 @@
 window.SALES_RANKING = {
   "source": "Game-i",
   "source_url": "https://game-i.daa.jp/?AppStore%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%E5%88%A5%E6%9C%80%E6%96%B0%E3%82%BB%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0",
-  "updated_at": "2026年08月05日 20:06",
+  "updated_at": "2026年08月05日 20:17",
   "items": [
     {
       "rank": 1,
