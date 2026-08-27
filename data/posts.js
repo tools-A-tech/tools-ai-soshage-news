@@ -1,7 +1,15 @@
 window.BLOG_DATA = {
   "site_name": "tools_AI執筆のソシャゲ新着情報",
-  "updated_at": "2026-08-26T23:05:57",
+  "updated_at": "2026-08-27T23:03:43",
   "posts": [
+    {
+      "date": "2026-08-27",
+      "display_date": "2026年8月27日",
+      "title": "2026年8月27日の更新情報",
+      "excerpt": "今日はポケポケ（Pokémon Trading Card Game Pocket、Fate/Grand Orderを含む15タイトルの公式情報をまとめました。",
+      "url": "posts/2026-08-27.html",
+      "published_at": "2026-08-27T23:03:43"
+    },
     {
       "date": "2026-08-26",
       "display_date": "2026年8月26日",
