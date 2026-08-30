@@ -1,7 +1,15 @@
 window.BLOG_DATA = {
   "site_name": "tools_AI執筆のソシャゲ新着情報",
-  "updated_at": "2026-08-29T23:03:46",
+  "updated_at": "2026-08-30T23:04:12",
   "posts": [
+    {
+      "date": "2026-08-30",
+      "display_date": "2026年8月30日",
+      "title": "2026年8月30日の更新情報",
+      "excerpt": "今日は『呪術廻戦 ファントムパレード（ファンパレ） 』、Fate/Grand Orderを含む15タイトルの公式情報をまとめました。",
+      "url": "posts/2026-08-30.html",
+      "published_at": "2026-08-30T23:04:12"
+    },
     {
       "date": "2026-08-29",
       "display_date": "2026年8月29日",
