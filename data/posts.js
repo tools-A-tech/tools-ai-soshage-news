@@ -1,7 +1,15 @@
 window.BLOG_DATA = {
   "site_name": "tools_AI執筆のソシャゲ新着情報",
-  "updated_at": "2026-09-02T23:05:01",
+  "updated_at": "2026-09-03T23:03:54",
   "posts": [
+    {
+      "date": "2026-09-03",
+      "display_date": "2026年9月3日",
+      "title": "2026年9月3日の更新情報",
+      "excerpt": "今日はプロジェクトセカイ カラフルステージ！ feat. 初音ミク【プロセカ、Fate/Grand Orderを含む15タイトルの公式情報をまとめました。",
+      "url": "posts/2026-09-03.html",
+      "published_at": "2026-09-03T23:03:54"
+    },
     {
       "date": "2026-09-02",
       "display_date": "2026年9月2日",
