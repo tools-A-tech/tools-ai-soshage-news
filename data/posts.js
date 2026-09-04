@@ -1,7 +1,15 @@
 window.BLOG_DATA = {
   "site_name": "tools_AI執筆のソシャゲ新着情報",
-  "updated_at": "2026-09-03T23:03:54",
+  "updated_at": "2026-09-04T23:04:17",
   "posts": [
+    {
+      "date": "2026-09-04",
+      "display_date": "2026年9月4日",
+      "title": "2026年9月4日の更新情報",
+      "excerpt": "今日はポケポケ（Pokémon Trading Card Game Pocket、ドラゴンボール レジェンズを含む15タイトルの公式情報をまとめました。",
+      "url": "posts/2026-09-04.html",
+      "published_at": "2026-09-04T23:04:17"
+    },
     {
       "date": "2026-09-03",
       "display_date": "2026年9月3日",
