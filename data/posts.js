@@ -1,7 +1,15 @@
 window.BLOG_DATA = {
   "site_name": "tools_AI執筆のソシャゲ新着情報",
-  "updated_at": "2026-09-06T23:04:54",
+  "updated_at": "2026-09-07T23:07:34",
   "posts": [
+    {
+      "date": "2026-09-07",
+      "display_date": "2026年9月7日",
+      "title": "2026年9月7日の更新情報",
+      "excerpt": "今日はポケポケ（Pokémon Trading Card Game Pocket、妖怪ウォッチ ぷにぷにを含む15タイトルの公式情報をまとめました。",
+      "url": "posts/2026-09-07.html",
+      "published_at": "2026-09-07T23:07:34"
+    },
     {
       "date": "2026-09-06",
       "display_date": "2026年9月6日",
