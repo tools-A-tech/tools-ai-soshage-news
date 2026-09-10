@@ -1,7 +1,15 @@
 window.BLOG_DATA = {
   "site_name": "tools_AI執筆のソシャゲ新着情報",
-  "updated_at": "2026-09-09T23:06:55",
+  "updated_at": "2026-09-10T23:05:57",
   "posts": [
+    {
+      "date": "2026-09-10",
+      "display_date": "2026年9月10日",
+      "title": "2026年9月10日の更新情報",
+      "excerpt": "今日は学園アイドルマスター／学マス、ポケポケ（Pokémon Trading Card Game Pocketを含む15タイトルの公式情報をまとめました。",
+      "url": "posts/2026-09-10.html",
+      "published_at": "2026-09-10T23:05:57"
+    },
     {
       "date": "2026-09-09",
       "display_date": "2026年9月9日",
