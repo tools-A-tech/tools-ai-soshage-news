@@ -1,7 +1,15 @@
 window.BLOG_DATA = {
   "site_name": "tools_AI執筆のソシャゲ新着情報",
-  "updated_at": "2026-09-12T23:02:29",
+  "updated_at": "2026-09-13T23:03:01",
   "posts": [
+    {
+      "date": "2026-09-13",
+      "display_date": "2026年9月13日",
+      "title": "2026年9月13日の更新情報",
+      "excerpt": "今日はFate/Grand Order、白猫プロジェクト NEW WORLD'Sを含む15タイトルの公式情報をまとめました。",
+      "url": "posts/2026-09-13.html",
+      "published_at": "2026-09-13T23:03:01"
+    },
     {
       "date": "2026-09-12",
       "display_date": "2026年9月12日",
