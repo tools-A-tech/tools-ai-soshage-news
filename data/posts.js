@@ -1,7 +1,15 @@
 window.BLOG_DATA = {
   "site_name": "tools_AI執筆のソシャゲ新着情報",
-  "updated_at": "2026-09-28T23:04:59",
+  "updated_at": "2026-09-29T23:03:16",
   "posts": [
+    {
+      "date": "2026-09-29",
+      "display_date": "2026年9月29日",
+      "title": "2026年9月29日の更新情報",
+      "excerpt": "今日はポケポケ（Pokémon Trading Card Game Pocket、『呪術廻戦 ファントムパレード（ファンパレ） 』を含む15タイトルの公式情報をまとめました。",
+      "url": "posts/2026-09-29.html",
+      "published_at": "2026-09-29T23:03:16"
+    },
     {
       "date": "2026-09-28",
       "display_date": "2026年9月28日",
