@@ -1,7 +1,15 @@
 window.BLOG_DATA = {
   "site_name": "tools_AI執筆のソシャゲ新着情報",
-  "updated_at": "2026-09-30T23:06:19",
+  "updated_at": "2026-10-01T23:06:03",
   "posts": [
+    {
+      "date": "2026-10-01",
+      "display_date": "2026年10月1日",
+      "title": "2026年10月1日の更新情報",
+      "excerpt": "今日はプロジェクトセカイ カラフルステージ！ feat. 初音ミク【プロセカ、ONE PIECE バウンティラッシュを含む15タイトルの公式情報をまとめました。",
+      "url": "posts/2026-10-01.html",
+      "published_at": "2026-10-01T23:06:03"
+    },
     {
       "date": "2026-09-30",
       "display_date": "2026年9月30日",
