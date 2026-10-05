@@ -1,7 +1,15 @@
 window.BLOG_DATA = {
   "site_name": "tools_AI執筆のソシャゲ新着情報",
-  "updated_at": "2026-10-04T23:03:45",
+  "updated_at": "2026-10-05T23:05:05",
   "posts": [
+    {
+      "date": "2026-10-05",
+      "display_date": "2026年10月5日",
+      "title": "2026年10月5日の更新情報",
+      "excerpt": "今日は妖怪ウォッチ ぷにぷにを含む15タイトルの公式情報をまとめました。",
+      "url": "posts/2026-10-05.html",
+      "published_at": "2026-10-05T23:05:05"
+    },
     {
       "date": "2026-10-04",
       "display_date": "2026年10月4日",
