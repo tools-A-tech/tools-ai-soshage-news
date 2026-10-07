@@ -1,7 +1,15 @@
 window.BLOG_DATA = {
   "site_name": "tools_AI執筆のソシャゲ新着情報",
-  "updated_at": "2026-10-06T23:04:40",
+  "updated_at": "2026-10-07T23:04:32",
   "posts": [
+    {
+      "date": "2026-10-07",
+      "display_date": "2026年10月7日",
+      "title": "2026年10月7日の更新情報",
+      "excerpt": "今日は妖怪ウォッチ ぷにぷに、Fate/Grand Orderを含む15タイトルの公式情報をまとめました。",
+      "url": "posts/2026-10-07.html",
+      "published_at": "2026-10-07T23:04:32"
+    },
     {
       "date": "2026-10-06",
       "display_date": "2026年10月6日",
