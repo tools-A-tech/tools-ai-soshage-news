@@ -1,7 +1,15 @@
 window.BLOG_DATA = {
   "site_name": "tools_AI執筆のソシャゲ新着情報",
-  "updated_at": "2026-10-09T23:03:51",
+  "updated_at": "2026-10-10T23:02:57",
   "posts": [
+    {
+      "date": "2026-10-10",
+      "display_date": "2026年10月10日",
+      "title": "2026年10月10日の更新情報",
+      "excerpt": "今日はFate/Grand Order、モンストを含む15タイトルの公式情報をまとめました。",
+      "url": "posts/2026-10-10.html",
+      "published_at": "2026-10-10T23:02:57"
+    },
     {
       "date": "2026-10-09",
       "display_date": "2026年10月9日",
