@@ -1,7 +1,15 @@
 window.BLOG_DATA = {
   "site_name": "tools_AI執筆のソシャゲ新着情報",
-  "updated_at": "2026-10-20T23:04:01",
+  "updated_at": "2026-10-21T23:04:26",
   "posts": [
+    {
+      "date": "2026-10-21",
+      "display_date": "2026年10月21日",
+      "title": "2026年10月21日の更新情報",
+      "excerpt": "今日は学園アイドルマスター／学マス、Fate/Grand Orderを含む15タイトルの公式情報をまとめました。",
+      "url": "posts/2026-10-21.html",
+      "published_at": "2026-10-21T23:04:26"
+    },
     {
       "date": "2026-10-20",
       "display_date": "2026年10月20日",
